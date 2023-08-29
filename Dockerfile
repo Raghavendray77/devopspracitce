@@ -1,1 +1,1 @@
-
+FROM amazoncorretto:11
